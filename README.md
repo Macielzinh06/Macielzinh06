@@ -1,6 +1,6 @@
  #sobre mim 
 - 👋 Hi, I’m @Macielzinh06
-- :+1 meu gmail de contato é lorayne.lima@escola.pr.gov.br
+- meu gmail de contato é lorayne.lima@escola.pr.gov.br
 - eu estou interessado em aprender programar novas linguagens 
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratsh
 
