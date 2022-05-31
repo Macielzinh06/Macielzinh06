@@ -1,7 +1,7 @@
  #sobre mim 
 - 👋 Hi, I’m **@Macielzinh06**
 - meu gmail de contato é lorayne.lima@escola.pr.gov.br
-- eu estou interessado em aprender programar novas linguagens 
+- eu estou interessado em ler minhas fanfincs, treinar taekwondo sem parar, me dedicar mais nesse ramo e ser canpeã paranaense em 2023
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratsh
 
 
