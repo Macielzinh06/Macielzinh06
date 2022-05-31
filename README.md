@@ -1,9 +1,9 @@
  #sobre mim 
 - 👋 Hi, I’m @Macielzinh06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :+1 meu gmail de contato é lorayne.lima@escola.pr.gov.br
+- eu estou interessado em aprender programar novas linguagens 
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratsh
+
 
 <!---
 Macielzinh06/Macielzinh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
